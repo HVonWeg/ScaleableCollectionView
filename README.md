@@ -3,5 +3,5 @@ A grid collection view of any size (e.g. 3x3) that can be pinched or expanded wi
 Code coverage: 96% (Unit + UI) (but many tests are still missing!)
 
 <p align="center">
-<img height="300" src="https://github.com/HVonWeg/ScaleableCollectionView/blob/main/screenshot.png" />
+<img width="400" src="https://github.com/HVonWeg/ScaleableCollectionView/blob/main/screenshot.png" />
 </p>
